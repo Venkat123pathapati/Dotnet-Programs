@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\bin\Debug\Mouseevent.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\bin\Debug\Mouseevent.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\bin\Debug\Mouseevent.pdb
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.Form1.resources
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Mouseevent\obj\Debug\Mouseevent.pdb

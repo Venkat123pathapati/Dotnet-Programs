@@ -1,0 +1,5 @@
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\For_Formate\bin\Debug\For_Formate.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\For_Formate\bin\Debug\For_Formate.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\For_Formate\bin\Debug\For_Formate.pdb
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\For_Formate\obj\Debug\For_Formate.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\For_Formate\obj\Debug\For_Formate.pdb

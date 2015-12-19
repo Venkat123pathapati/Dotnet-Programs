@@ -1,0 +1,5 @@
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb

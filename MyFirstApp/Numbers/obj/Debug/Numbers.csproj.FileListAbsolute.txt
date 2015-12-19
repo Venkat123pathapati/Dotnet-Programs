@@ -1,0 +1,11 @@
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\bin\Debug\Numbers.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\bin\Debug\Numbers.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\bin\Debug\Numbers.pdb
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\obj\Debug\Numbers.Form1.resources
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\obj\Debug\Numbers.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\obj\Debug\Numbers.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\Numbers\obj\Debug\Numbers.pdb
+E:\sourya\MyFirstApp\Numbers\bin\Debug\Numbers.exe.config
+E:\sourya\MyFirstApp\Numbers\obj\Debug\Numbers.exe
+E:\sourya\MyFirstApp\Numbers\obj\Debug\Numbers.pdb

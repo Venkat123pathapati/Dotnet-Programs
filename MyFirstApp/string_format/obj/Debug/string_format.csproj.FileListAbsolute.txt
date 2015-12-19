@@ -1,0 +1,5 @@
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\string_format\bin\Debug\string_format.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\string_format\bin\Debug\string_format.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\string_format\bin\Debug\string_format.pdb
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\string_format\obj\Debug\string_format.exe
+c:\users\john\documents\visual studio 2013\Projects\MyFirstApp\string_format\obj\Debug\string_format.pdb
